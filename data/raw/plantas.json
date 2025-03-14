@@ -1,0 +1,32 @@
+{
+    "Agave lechugilla": {
+        "cantidad_por_hectarea": 33
+    },
+    "Agave salmiana": {
+        "cantidad_por_hectarea": 157
+    },
+    "Agave scabra": {
+        "cantidad_por_hectarea": 33
+    },
+    "Agave striata": {
+        "cantidad_por_hectarea": 33
+    },
+    "Opuntia cantabrigiensis": {
+        "cantidad_por_hectarea": 39
+    },
+    "Opuntia engelmani": {
+        "cantidad_por_hectarea": 30
+    },
+    "Opuntia robusta": {
+        "cantidad_por_hectarea": 58
+    },
+    "Opuntia streptacantha": {
+        "cantidad_por_hectarea": 51
+    },
+    "Prosopis laevigata": {
+        "cantidad_por_hectarea": 69
+    },
+    "Yucca filifera": {
+        "cantidad_por_hectarea": 21
+    }
+}
